@@ -60,7 +60,7 @@ To run this project locally on your system:
 Clone the repository
 
 ```
-git clone https://github.com/anshuman-sahu-dev/Netflix-India-Watch-TV-Shows-Online-Watch-Movies-Online.git
+git remote add origin https://github.com/anshuman-sahu-dev/Netflix-Clone.git
 ```
 
 Open the project folder.
