@@ -172,14 +172,14 @@ This project is created **solely for educational and learning purposes**.
 
 ### ✨ Made with ❤️ by
 
-#  Anshuman Sahu
+#  🧑‍💻 Anshuman Sahu
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E50914&center=true&vCenter=true&width=435&lines=Front-End+Developer;UI+%2F+UX+Enthusiast;HTML+%7C+CSS+%7C+JavaScript;Building+one+clone+at+a+time+%F0%9F%9A%80)
 
 ---
 
-📧 **Email:** anshumansahu2306@gmail.com
-📞 **Phone:** +91 7854939308
+📧 **Email:** toanshumansahu@gmail.com
+📞 **Phone:** +91 78549 39308
 
 ---
 
