@@ -39,7 +39,7 @@ This clone mirrors the look and feel of the original Netflix India homepage, inc
 
 | Section | Preview |
 |---|---|
-| Hero / Landing | `assets/screenshots/hero.png` |
+| Hero / Landing | `assets/screenshots.png` |
 | Features Section | `assets/screenshots/features.png` |
 | FAQ Section | `assets/screenshots/faq.png` |
 | Footer | `assets/screenshots/footer.png` |
