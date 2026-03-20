@@ -1,114 +1,176 @@
-# 🎬 Netflix Clone
+# 🎬 Netflix India — Clone Project
 
-Netflix Clone is a modern and responsive front-end website that replicates the visual layout of the popular streaming platform Netflix. The project focuses on recreating the homepage UI using pure HTML and CSS while maintaining a clean design and responsive layout.
-
-This project demonstrates front-end development skills such as structured HTML design, advanced CSS styling, Flexbox, Grid layouts, and responsive web design without using JavaScript frameworks.
+> ⚠️ **Disclaimer:** This is a clone project built purely for **learning purposes**. It is **not affiliated with, endorsed by, or connected to Netflix Inc.** in any way. All Netflix-related trademarks, logos, and content belong to their respective owners.
 
 ---
 
-# 🚀 Features
+## 📌 Table of Contents
 
-The website includes several sections designed to replicate the Netflix homepage experience:
-
-**Home (Hero Section)** – Large banner with headline, description, and email signup field
-**Navigation Bar** – Netflix logo and Sign In button with clean layout
-**Movie Rows** – Horizontally aligned movie thumbnails displayed in card format
-**Hover Effects** – Smooth hover animations for movie thumbnails
-**Responsive Layout** – Optimized layout for desktop, tablet, and mobile screens
-**Footer Section** – Multi-column layout with useful navigation links
-
----
-
-# 🛠 Technologies Used
-
-This project is built using the following technologies:
-
-**HTML5** – Structure and layout of the webpage
-**CSS3** – Styling and visual design
-**Flexbox** – Flexible alignment of components
-**CSS Grid** – Structured layout for sections
-**Media Queries** – Responsive design across devices
-**GitHub** – Version control and repository hosting
+- [About the Project](#about-the-project)
+- [Live Demo](#live-demo)
+- [Screenshots](#screenshots)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Pages & Sections](#pages--sections)
+- [Project Structure](#project-structure)
+- [Getting Started](#getting-started)
+- [Learning Outcomes](#learning-outcomes)
+- [License & Disclaimer](#license--disclaimer)
 
 ---
 
-# 📁 Project Structure
+## 📖 About the Project
 
-The project follows a simple and organized folder structure.
+**Netflix India Clone** is a front-end replica of the Netflix India landing page, recreated using only **HTML and CSS**. The goal of this project is to practice and strengthen core web development skills including layout design, responsive styling, and UI replication by rebuilding a real-world, production-grade interface from scratch.
+
+This clone mirrors the look and feel of the original Netflix India homepage, including the hero section, feature cards, FAQ accordion, and footer links.
+
+---
+
+## 🌐 Live Demo
+
+🔗 **[https://netflix-india-two.vercel.app/](https://netflix-india-two.vercel.app/)**
+
+---
+
+## 📸 Screenshots
+
+> *(Add screenshots of your project here by placing images in an `assets/screenshots/` folder and referencing them below)*
+
+| Section | Preview |
+|---|---|
+| Hero / Landing | `assets/screenshots/hero.png` |
+| Features Section | `assets/screenshots/features.png` |
+| FAQ Section | `assets/screenshots/faq.png` |
+| Footer | `assets/screenshots/footer.png` |
+
+---
+
+## ✨ Features
+
+- 🎨 **Pixel-perfect UI** — Closely replicates the Netflix India landing page design
+- 📧 **Email CTA** — "Get Started" call-to-action with email input field in the hero section
+- 📺 **Feature Highlights** — TV streaming, offline downloads, multi-device support, and kids profile sections
+- ❓ **FAQ Section** — Accordion-style frequently asked questions
+- 🔗 **Footer Links** — Multi-column footer with navigation links
+- 🌐 **Language Selector** — English language toggle in the navbar
+- 🔑 **Sign In Button** — Styled header with Netflix logo and Sign In option
+- 📱 **Responsive Design** — Adapts across desktop, tablet, and mobile screen sizes
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|---|---|
+| **HTML5** | Page structure and semantic markup |
+| **CSS3** | Styling, layout, animations, and responsiveness |
+| **Vercel** | Hosting and deployment |
+
+> No JavaScript frameworks, libraries, or build tools were used — pure HTML & CSS only.
+
+---
+
+## 📄 Pages & Sections
 
 ```
-Netflix-Clone
+/ (index.html)
+├── Navbar            → Netflix logo + Language selector + Sign In button
+├── Hero Section      → Headline, subtext, and email Get Started CTA
+├── Feature 1         → Enjoy on your TV
+├── Feature 2         → Download shows to watch offline
+├── Feature 3         → Watch everywhere (multi-device)
+├── Feature 4         → Create profiles for kids
+├── FAQ Section       → Accordion-style Q&A
+└── Footer            → Multi-column links + Contact number
+
+/faq                  → FAQ page (linked from footer)
+```
+
+---
+
+## 📁 Project Structure
+```
+netflix-india/
 │
-├── index.html
-├── style.css
-├── favicon.ico
-├── README.md
+├── index.html              # Main landing page
+├── style.css               # Main stylesheet
+├── favicon.ico             # Site favicon
 │
-└── assets
-    ├── images
-    └── videos
+└── assets/
+    ├── images/             # All image assets
+    │   ├── logo.svg        # Netflix logo
+        └── BG image        # Background Image
+
+    └── videos/             # Feature section videos
+        ├── Video 53_assets_videos_video1
 ```
 
-This structure keeps the project clean and easy to maintain.
-
 ---
 
-# ⚙ Installation / How to Run
+## 🚀 Getting Started
 
-To run this project locally on your system:
+No installation or build setup required. Just clone and open in a browser.
 
-Clone the repository
+### 1. Clone the Repository
 
-```
-git remote add origin https://github.com/anshuman-sahu-dev/Netflix-Clone.git
+```bash
+git clone https://github.com/anshuman-sahu-dev/netflix-india.git
 ```
 
-Open the project folder.
+### 2. Navigate to the Project Folder
 
-Locate and open the **index.html** file in your web browser.
+```bash
+cd netflix-india
+```
 
-The website will run instantly since it is a static front-end project.
+### 3. Open in Browser
 
----
+```bash
+# On macOS
+open index.html
 
-# 🚀 Live Demo
+# On Windows
+start index.html
 
-🔗 View the live project here:
-👉 *(Add your deployed link here if hosted on Vercel / Netlify)*
+# Or simply drag and drop index.html into your browser
+```
 
----
-
-# 🔮 Future Improvements
-
-Some enhancements planned for future versions include:
-
-Adding JavaScript for interactive functionality
-Implementing movie preview modals
-Integrating with Movie Database API for real movie data
-Adding user authentication UI
-Creating dark/light theme toggle
-Converting the project into a React-based application
-Connecting to a backend for dynamic movie content
+> ⚡ No server, no npm, no dependencies — open and run instantly!
 
 ---
 
-# 👨‍💻 Author
+## 🧠 Learning Outcomes
+
+By building this project, the following skills were practiced and reinforced:
+
+- ✅ Structuring a multi-section webpage with semantic HTML5
+- ✅ CSS Flexbox and Grid for complex layouts
+- ✅ Replicating real-world UI from a live production website
+- ✅ Building a responsive design without any CSS framework
+- ✅ Styling navbars, hero sections, feature cards, and footers
+- ✅ Deploying a static site to Vercel
+
+---
+
+## 📜 License & Disclaimer
+
+This project is created **solely for educational and learning purposes**.
+
+- ❌ Not affiliated with Netflix, Inc.
+- ❌ Not intended for commercial use
+- ❌ All Netflix branding, logos, and visual assets belong to **Netflix, Inc.**
+- ✅ Original code structure and styling written by the developer for practice
+
+> *"Built to learn, not to compete."*
+
+---
+
+## 👨‍💻 Developer
 
 **Anshuman Sahu**
+📧 anshumansahu2306@gmail.com
+📞 +91 7854939308
 
-GitHub:
-[https://github.com/anshuman-sahu-dev](https://github.com/anshuman-sahu-dev)
-
----
-
-# ⭐ Show Your Support
-
-If you like this project, consider giving it a **star on GitHub** and sharing it with others.
-
----
-
-# 📌 Disclaimer
-
-This project is created for **educational purposes only**.
-All design credits belong to Netflix. This is a **non-commercial front-end clone**.
-
+[![GitHub](https://img.shields.io/badge/GitHub-anshuman--sahu--dev-181717?style=flat&logo=github)](https://github.com/anshuman-sahu-dev)
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=flat&logo=vercel)](https://netflix-india-two.vercel.app/)
