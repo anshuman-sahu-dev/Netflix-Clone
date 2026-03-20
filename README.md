@@ -3,8 +3,6 @@
 > ⚠️ **Disclaimer:** This is a clone project built purely for **learning purposes**. It is **not affiliated with, endorsed by, or connected to Netflix Inc.** in any way. All Netflix-related trademarks, logos, and content belong to their respective owners.
 
 ![Netflix](assets/images/Netflix%20Logo.svg)
-
-
 ---
 
 ## 📌 Table of Contents
