@@ -177,7 +177,6 @@ For any queries, feedback, or collaboration:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshuman_Sahu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshuman-sahu-371a6535b/) <br>
 [![Location](https://img.shields.io/badge/Location-Brahmapur,_Odisha,_India-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white)](#) <br>
 
----
 
 ## 👨‍💻 Developer
 
