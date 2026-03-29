@@ -186,6 +186,8 @@ For any queries, feedback, or collaboration:
 ---
 
 <p align="center">Designed & Built by <strong>Anshuman Sahu</strong> · Deployed on <a href="https://vercel.com">Vercel</a></p>
+---
+
 ## 👨‍💻 Developer
 
 <div align="center">
