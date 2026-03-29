@@ -154,7 +154,7 @@ By building this project, the following skills were practiced and reinforced:
 
 ---
 
-## 📜 License & Disclaimer
+## 📜 Disclaimer
 
 This project is created **solely for educational and learning purposes**.
 
